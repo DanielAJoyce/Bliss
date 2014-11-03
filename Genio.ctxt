@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Genio()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ genio,\ but\ nothing\ needing\ constructed\!\n
+comment1.params=
+comment1.target=java.lang.String\ getStr()
+comment1.text=\ getStr()\ \ is\ a\ private\ method\ which\ safely\ returns\ a\ string\ for\ use\n\ \ by\ the\ public\ methods\ getString()\ and\ getCharacter()\ in\ the\ class.\n
+comment2.params=
+comment2.target=int\ getInteger()
+comment2.text=\ getInteger()\ returns\ an\ integer\ value.\ Exception\ handling\ is\ used\ to\ trap\n\ invalid\ data\ -\ including\ floating\ point\ numbers,\ non-numeric\ characters\n\ and\ no\ data.\ In\ the\ event\ of\ an\ exception,\ the\ user\ is\ prompted\ to\ enter\n\ the\ correct\ data\ in\ the\ correct\ format.\n
+comment3.params=
+comment3.target=float\ getFloat()
+comment3.text=\ getFloat()\ returns\ a\ floating\ point\ value.\ Exception\ handling\ is\ used\ to\ trap\n\ invalid\ data\ -\ including\ non-numeric\ characters\ and\ no\ data.\n\ In\ the\ event\ of\ an\ exception\ (normally\ no\ data\ or\ alpha),\ the\ user\ is\ prompted\ to\ enter\n\ data\ in\ the\ correct\ format\n
+comment4.params=
+comment4.target=double\ getDouble()
+comment4.text=\ getDouble()\ returns\ a\ double\ precision\ floating\ point\ value.\ \n\ Exception\ handling\ is\ used\ to\ trap\ invalid\ data\ -\ including\ non-numeric\n\ characters\ and\ no\ data.\n\ In\ the\ event\ of\ an\ exception,\ the\ user\ is\ prompted\ to\ enter\n\ data\ in\ the\ correct\ format\n
+comment5.params=
+comment5.target=char\ getCharacter()
+comment5.text=\ getCharacter()\ returns\ a\ character\ from\ the\ keyboard.\ It\ does\ this\ by\ \n\ reading\ a\ string\ then\ taking\ the\ first\ character\ read.\ Subsequent\ characters\n\ are\ discarded\ without\ raising\ an\ exception.\n\ The\ method\ checks\ to\ ensure\ a\ character\ has\ been\ entered,\ and\ prompts\ \n\ if\ it\ has\ not.\n
+comment6.params=
+comment6.target=java.lang.String\ getString()
+comment6.text=\ getString()\ returns\ a\ String\ entered\ at\ the\ keyboard.\n
+numComments=7

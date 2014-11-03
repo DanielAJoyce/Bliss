@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tree()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tree\r\n
+comment1.params=findThis
+comment1.target=boolean\ searchInBlissTree(int)
+comment1.text=\r\n\ A\ method\ that\ goes\ through\ the\ tree\ and\ searches\ for\ the\ word\ to\ be\ translated\r\n\ \r\n\ @param\ \ int\ findThis\r\n\ @return\ \ boolean\r\n
+comment2.params=findThis
+comment2.target=boolean\ searchInEnglishTree(java.lang.String)
+comment2.text=\r\n\ A\ method\ that\ goes\ through\ the\ tree\ and\ searches\ for\ the\ word\ to\ be\ translated\r\n\ \r\n\ @param\ \ int\ findThis\r\n\ @return\ \ boolean\r\n
+comment3.params=bliss\ english
+comment3.target=void\ addToBlissTree(int,\ java.lang.String)
+comment3.text=\r\n\ A\ method\ that\ adds\ an\ node\ to\ the\ tree\r\n\ \r\n\ @param\ \ int\ studentID,\ int\ mark\r\n\ @return\ \ None\r\n
+comment4.params=english\ bliss\ specialBliss
+comment4.target=void\ addToEnglishTree(java.lang.String,\ int,\ java.lang.String)
+comment4.text=\r\n\ A\ method\ that\ adds\ an\ node\ to\ the\ tree\r\n\ \r\n\ @param\ \ int\ studentID,\ int\ mark\r\n\ @return\ \ None\r\n
+comment5.params=
+comment5.target=void\ callingTraverse()
+comment5.text=\r\n\ A\ method\ for\ calling\ a\ Traverse\ Binary\ Tree\r\n\ \r\n\ @param\ \ \ None\r\n\ @return\ \ None\r\n
+comment6.params=node
+comment6.target=void\ traverseTree(TreeNode)
+comment6.text=\r\n\ A\ method\ for\ adding\ a\ node\ to\ a\ Traverse\ Binary\ Tree\r\n\ \r\n\ @param\ \ \ None\r\n\ @return\ \ None\r\n
+numComments=7

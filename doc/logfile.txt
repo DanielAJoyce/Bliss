@@ -1,0 +1,151 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.6.0_21\bin\javadoc.exe
+-sourcepath
+F:\Bliss project\Bliss
+-classpath
+C:\BlueJ\lib\bluejcore.jar;C:\BlueJ\lib\junit.jar;F:\Bliss project\Bliss
+-d
+F:\Bliss project\Bliss\doc
+-source
+1.6
+-doctitle
+Bliss
+-windowtitle
+Bliss
+-link
+http://java.sun.com/javase/6/docs/api/
+-author
+-version
+-nodeprecated
+-package
+F:\Bliss project\Bliss/Menu.java
+F:\Bliss project\Bliss/Tree.java
+F:\Bliss project\Bliss/TreeNode.java
+F:\Bliss project\Bliss/ListNode.java
+F:\Bliss project\Bliss/Queue.java
+F:\Bliss project\Bliss/Genio.java
+F:\Bliss project\Bliss/List.java
+F:\Bliss project\Bliss/Translator.java
+<---- end of javadoc command ---->
+Loading source file F:\Bliss project\Bliss/Menu.java...
+Loading source file F:\Bliss project\Bliss/Tree.java...
+Loading source file F:\Bliss project\Bliss/TreeNode.java...
+Loading source file F:\Bliss project\Bliss/ListNode.java...
+Loading source file F:\Bliss project\Bliss/Queue.java...
+Loading source file F:\Bliss project\Bliss/Genio.java...
+Loading source file F:\Bliss project\Bliss/List.java...
+Loading source file F:\Bliss project\Bliss/Translator.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_21
+Building tree for all the packages and classes...
+Generating F:\Bliss project\Bliss\doc\Genio.html...
+Generating F:\Bliss project\Bliss\doc\List.html...
+F:\Bliss project\Bliss\List.java:76: warning - @param argument "data" is not a parameter name.
+F:\Bliss project\Bliss\List.java:76: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\List.java:137: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\List.java:164: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\List.java:31: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\List.java:65: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\List.java:105: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\List.java:116: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\List.java:116: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\List.java:42: warning - @param argument "Head" is not a parameter name.
+F:\Bliss project\Bliss\List.java:42: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\List.java:53: warning - @param argument "Head" is not a parameter name.
+F:\Bliss project\Bliss\List.java:53: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\ListNode.html...
+F:\Bliss project\Bliss\ListNode.java:20: warning - Tag @author cannot be used in constructor documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+F:\Bliss project\Bliss\ListNode.java:69: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+F:\Bliss project\Bliss\ListNode.java:69: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\ListNode.java:45: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\ListNode.java:33: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\ListNode.java:57: warning - Tag @author cannot be used in method documentation.  It can only be used in the following types of documentation: overview, package, class/interface.
+F:\Bliss project\Bliss\ListNode.java:57: warning - @param argument "the" is not a parameter name.
+F:\Bliss project\Bliss\ListNode.java:57: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\Menu.html...
+F:\Bliss project\Bliss\Menu.java:54: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:54: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:397: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:397: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:216: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:216: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:161: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:161: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:342: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:342: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:374: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:374: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:148: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:148: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:80: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:80: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:329: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Menu.java:329: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Menu.java:281: warning - @param argument "None" is not a parameter name.
+Generating F:\Bliss project\Bliss\doc\Queue.html...
+F:\Bliss project\Bliss\Queue.java:103: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:29: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:29: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Queue.java:53: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:53: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Queue.java:72: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:91: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:91: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Queue.java:41: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Queue.java:41: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\Translator.html...
+F:\Bliss project\Bliss\Translator.java:190: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:265: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:39: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:39: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:86: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:86: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:390: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:390: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:436: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:436: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:134: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:134: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:294: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:294: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Translator.java:214: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:343: warning - @param argument "String" is not a parameter name.
+F:\Bliss project\Bliss\Translator.java:343: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\Tree.html...
+F:\Bliss project\Bliss\Tree.java:143: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:143: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Tree.java:199: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:199: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Tree.java:255: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:255: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\Tree.java:31: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:87: warning - @param argument "int" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:267: warning - @param argument "None" is not a parameter name.
+F:\Bliss project\Bliss\Tree.java:267: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\TreeNode.html...
+F:\Bliss project\Bliss\TreeNode.java:59: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:71: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:107: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:47: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:35: warning - @param argument "none" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:132: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:149: warning - @param argument "nothing" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:95: warning - @param argument "TreeNode" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:95: warning - @return tag cannot be used in method with void return type.
+F:\Bliss project\Bliss\TreeNode.java:83: warning - @param argument "TreeNode" is not a parameter name.
+F:\Bliss project\Bliss\TreeNode.java:83: warning - @return tag cannot be used in method with void return type.
+Generating F:\Bliss project\Bliss\doc\package-frame.html...
+Generating F:\Bliss project\Bliss\doc\package-summary.html...
+Generating F:\Bliss project\Bliss\doc\package-tree.html...
+Generating F:\Bliss project\Bliss\doc\constant-values.html...
+Building index for all the packages and classes...
+Generating F:\Bliss project\Bliss\doc\overview-tree.html...
+Generating F:\Bliss project\Bliss\doc\index-all.html...
+Building index for all classes...
+Generating F:\Bliss project\Bliss\doc\allclasses-frame.html...
+Generating F:\Bliss project\Bliss\doc\allclasses-noframe.html...
+Generating F:\Bliss project\Bliss\doc\index.html...
+Generating F:\Bliss project\Bliss\doc\help-doc.html...
+Generating F:\Bliss project\Bliss\doc\stylesheet.css...
+88 warnings

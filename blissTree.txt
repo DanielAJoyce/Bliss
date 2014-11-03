@@ -1,0 +1,32 @@
+16;machine
+8;day
+4;after
+2;action
+1;alcoholic
+3;animal
+6;belongs to
+5;before
+7;building
+12;!
+10;down
+9;drink
+11;earth
+14;food
+13;feeling
+15;future
+24;sun
+20;past
+18;mind
+17;man
+19;mouth
+22;plus
+21;person
+23;protection
+28;to give
+26;to be
+25;time
+27;to get
+30;up
+29;to do
+31;?
+32;woman

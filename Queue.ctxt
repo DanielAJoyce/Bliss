@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Queue()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Queue\r\n
+comment1.params=
+comment1.target=void\ initialiseQueue()
+comment1.text=\r\n\ A\ method\ to\ create\ a\ new\ queue\r\n\ \r\n\ @param\ \ \ \ \ None\r\n\ @return\ \ \ \ None\r\n
+comment2.params=information
+comment2.target=void\ push(java.lang.String)
+comment2.text=\r\n\ pushes\ a\ value\ onto\ Queue\ \r\n\ \r\n\ @param\ \ \ \ \ \ \ int\ information\r\n\ @return\ \ \ \ \ None\r\n
+comment3.params=
+comment3.target=void\ pop()
+comment3.text=\r\n\ A\ method\ to\ display\ if\ queue\ is\ empty\r\n\ \r\n\ @param\ \ \ \ \ \ \ None\r\n\ @return\ \ \ \ \ None\r\n
+comment4.params=
+comment4.target=java.lang.String\ popNoPrint()
+comment4.text=\r\n\ A\ method\ to\ pop\ a\ data\ value\ from\ the\ Queue\ \r\n\ \r\n\ @param\ \ \ \ \ \ None\r\n\ @return\ \ \ \ \ None\r\n
+comment5.params=
+comment5.target=void\ printer()
+comment5.text=\r\n\ A\ method\ to\ print\ the\ whole\ queue\r\n\ \r\n\ @param\ \ \ \ \ None\r\n\ @return\ \ \ \ None\r\n
+comment6.params=
+comment6.target=boolean\ checkQueueEmpty()
+comment6.text=\r\n\ A\ method\ to\ check\ if\ the\ queue\ is\ empty\ \r\n\ \r\n\ @param\ \ \ \ \ None\r\n\ @return\ \ \ \ None\r\n
+numComments=7

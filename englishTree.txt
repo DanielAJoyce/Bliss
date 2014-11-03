@@ -1,0 +1,44 @@
+man;17;-
+day;8;-
+animal;3;-
+after;4;-
+action;2;-
+alcoholic;1;-
+belongs to;6;-
+before;5;-
+building;7;-
+feeling;13;-
+drink;9;-
+down;10;-
+earth;11;-
+future;15;-
+food;14;-
+machine;16;-
+time;25;-
+person;21;-
+mouth;19;-
+mind;18;-
+past;20;-
+protection;23;-
+plus;22;-
+sun;24;-
+to give;28;-
+to do;29;-
+to be;26;-
+to get;27;-
+woman;32;-
+up;30;-
+?;31;-
+!;12;-
+I;-1;21,101
+you;-1;21,102
+friend;-1;21,13,22,12
+tomorrow;-1;8,15
+today;-1;8,20,15
+yesterday;-1;8,20
+when;-1;31,25
+how;-1;31,2
+happy;-1;13,30
+sad;-1;13,10
+upset;-1;13,30,10
+home;-1;7,13
